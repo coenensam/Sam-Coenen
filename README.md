@@ -1,6 +1,6 @@
-- I'm Sam, a MSc student in quantitative finance.
+- Hi everyone, I'm Sam. BSc in Econometrics and in the final stage of a MSc in Quantitative Finance.
 - I enjoy programming, especially on Python and MATLAB.
-- I'm here to present my works.
+- Here I will present my works.
 
 <!---
 saam41/saam41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
